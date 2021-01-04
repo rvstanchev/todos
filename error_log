@@ -1,0 +1,4 @@
+[26-Nov-2020 10:45:31 Europe/Sofia] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/trueillu/lrvl/routes/web.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/trueillu/lrvl/routes/web.php on line 20
